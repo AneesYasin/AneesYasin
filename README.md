@@ -1,5 +1,5 @@
 ## Hi there 👋
-hello my name is Anees. i am a level 4 student studying cyber security.
+hello i am a level 4 student studying cyber security.
 <!--
 **AneesYasin/AneesYasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
